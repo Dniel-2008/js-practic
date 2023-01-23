@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 800px;
+    border: 2px solid black;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.block {
+    width: 200px;
+    border: 2px solid black;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3 {
+    text-align: center;
+    
+}
+
+.container1 {
+    text-align: center;
+    width: 800px;
+    border: 2px solid black;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.cont2 .block {
+    margin: auto;
+}
